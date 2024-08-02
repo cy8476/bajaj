@@ -1,0 +1,4 @@
+curl -X POST \
+  https://<app-name>.herokuapp.com/bfhl \
+  -H 'Content-Type: application/json' \
+  -d '{"data": ["M", "1", "334", "4", "B"]}'

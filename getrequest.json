@@ -1,0 +1,2 @@
+curl -X GET \
+  https://<app-name>.herokuapp.com/bfhl
